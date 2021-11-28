@@ -1,0 +1,7 @@
+{
+  "name": "search",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server . -a localhost --no-dotfiles -d false -c-1"
+  }
+}
